@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "description": "Local-first, AI-first kanban for small teams",
+  "homepage": "https://github.com/TheDevper/shoal",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/TheDevper/shoal/releases/download/v0.1.0/shoal-v0.1.0-windows-x64.zip",
+      "hash": "29d5733de6f1668444615659886c5825a4dfb87a115838bfa1918777ab766b0a"
+    }
+  },
+  "bin": "shoal.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/TheDevper/shoal/releases/download/v$version/shoal-v$version-windows-x64.zip"
+      }
+    }
+  }
+}
