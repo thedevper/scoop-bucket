@@ -1,8 +1,8 @@
 {
   "architecture": {
     "64bit": {
-      "hash": "301b26377b0a4e2250ef23203a45e07ba414be22497c25ac9ed8a526eb8fb856",
-      "url": "https://github.com/TheDevper/rodu/releases/download/v0.5.0/rodu-v0.5.0-windows-x64.zip"
+      "hash": "8bc426c07df3bf9dc8fb92502adcfc26dc518f2bb4c5b9f19b5b747c6daa49ec",
+      "url": "https://github.com/TheDevper/rodu/releases/download/v0.5.1/rodu-v0.5.1-windows-x64.zip"
     }
   },
   "autoupdate": {
@@ -17,5 +17,5 @@
   "description": "Local-first, AI-first kanban for small teams",
   "homepage": "https://github.com/TheDevper/rodu",
   "license": "Apache-2.0",
-  "version": "0.5.0"
+  "version": "0.5.1"
 }
